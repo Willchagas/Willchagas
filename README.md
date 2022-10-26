@@ -1,7 +1,7 @@
 ## Hi everyone! I'm Willian Chagas
 
 - 💻 Today I work with front-end
-- 🌱 Studying back-end languages
+- 🌱 Studying react.js
 - 🎯 Goal: Work as a fullstack developer
 
 <div align="center">
