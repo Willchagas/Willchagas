@@ -12,12 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Willchagas&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Willchagas&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![Snake animation](https://github.com/Willchagas/Willchagas/blob/output/github-contribution-grid-snake.svg)
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-  ![Snake animation](https://github.com/Willchagas/Willchagas/blob/output/github-contribution-grid-snake.svg)
-
-</div>
