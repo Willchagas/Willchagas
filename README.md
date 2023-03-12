@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Today I work with front-end<br>🌱 Studying react.js and other JS frameworks<br>🎯 Goal: Work as a fullstack developer
+💻 Today I work with front-end<br>🌱 Studying react.js<br>🎯 Goal: Work as a fullstack developer
 
 
 ## 🌐 Socials:
